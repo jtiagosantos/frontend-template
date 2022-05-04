@@ -64,7 +64,7 @@ $ yarn or npm i
 3️⃣ Start project:
 
 ```bash
-$ yarn dev
+$ yarn dev or npm run dev
 ```
 
 <hr>
@@ -72,7 +72,7 @@ $ yarn dev
 ## 🔗 Run tests
 
 ```bash
-$ yarn test
+$ yarn test or npm run test
 ```
 
 <hr>
